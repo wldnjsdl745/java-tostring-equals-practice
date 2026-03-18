@@ -1,7 +1,5 @@
 package test;
 
-import java.util.Objects;
-
 public class Rectangle {
 
     int rect1;
